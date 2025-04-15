@@ -1,0 +1,44 @@
+﻿  Source.cpp
+C:\Users\hp\Desktop\SNAKE GAME SFML\Source.cpp(71,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\Desktop\SNAKE GAME SFML\Source.cpp(86,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\SNAKE GAME SFML\Source.cpp(86,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\SNAKE GAME SFML\Source.cpp(98,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\hp\Desktop\SNAKE GAME SFML\Source.cpp(98,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating code
+  17 of 149 functions (11.4%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SNAKE GAME SFML.vcxproj -> C:\Users\hp\Desktop\SNAKE GAME SFML\x64\Release\SNAKE GAME SFML.exe
